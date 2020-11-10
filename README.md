@@ -1,16 +1,18 @@
 # Making The Most Meaningful Reality TV Show
 
-Our mission is to create the most meaningful reality tv show. Think :heart: self-discipline :heart: entrepreneurship :heart: art :heart: awesomeness :heart: innovation :heart: hard work :heart: traditional wisdom :heart: new tools :heart: house parties :heart: inter generational connect :heart: urban rural travel :heart:  hitchhiking :heart: and more :heart: 
+We are TEAM (( COME UP WITH A COOL NAME LATER )). _Our mission is to create the most meaningful Reality TV Show_. Yes, you read that right, and yes, it will not be easy — have you seen how _not-effing-real_ all reality tv shows are?!
 
-_Because millennials and generation-z must rise to today's challenges._ 
+As we make the most meaningful reality tv show, we will draw inspiration from some select lifestyle aspects of America 🇺🇸  and India 🇮🇳   bring those aspects together, and do some really awesome shit. Think :heart: / individualism :heart: / family :heart: / balance :heart: / vasudhaiva kutumbakam :heart: / self-discipline :heart: / art :heart: / entrepreneurship :heart: / storytelling :heart: / rural innovation :heart: / urban tools :heart: / hard work :heart: / house parties :heart: / diversity without divide :heart: / inter generational connect :heart: / rural urban travel :heart: /  hitchhiking :heart: / and more :heart: / 
 
-_Just like all the great generations before us had to._ 
+Honestly speaking, at this point (Nov 10, 2020) we DO NOT KNOW how we will make this show, or what it will look like, but we are setting out to make it anyways, because we have a sense of what it will _feel_ like, and because we are driven by the idea that —
 
-_But differently._
+- _Us young millennials and gen-z folks must rise to today's challenges._ 
+- _Just like the great generations before us had to._ 
+- _. . . But differently._
 
-It is not possible to overcome the start of decade 2020 right away 🦇 global pandemic 🦇 fake news 🦇 racism 🦇 reverse racism 🦇 shootings 🦇 riots 🦇 religious terrorism 🦇 cancel culture 🦇 hindu lynchings 🦇 islamic beheadings 🦇 job losses 🦇 urban divide 🦇 rural divide 🦇 addictive tech 🦇 addictive porn 🦇  and more. 
+🦇 global pandemic 🦇 unhealthy globalism 🦇 fake news 🦇 racial riots 🦇 religious riots 🦇 job losses 🦇 urban divide 🦇 rural divide 🦇 addictive tech 🦇 addictive porn 🦇 lockdowns 🦇 loneliness 🦇 depression 🦇 and more. Oh dear God, it will not be easy to overcome how the decade 2020 has started.
 
-So we will build a small team, create something meaningful and awesome, and share with the world how we did it.
+But these problems must be sovled, solved quick, and balance restored.
 
 # Learn More & Consider Applying
 
