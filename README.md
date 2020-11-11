@@ -1,10 +1,8 @@
 # Making The Most Meaningful Reality TV Show
 
-We are TEAM (( COME UP WITH A COOL NAME LATER )). _Our mission is to create the most meaningful Reality TV Show_. And get it distributed on an awesome streaming platform. Doing these things will not be easy. We do not know at this point (November 10, 2020) what the show will look like, or how we will make it.
+We are TEAM (( COME UP WITH A COOL NAME LATER )). _Our mission is to create the most meaningful Reality TV Show_. 
 
-But we have a sense of what will _drive_ the show —
-
-Think (:heart:) desire of future filmmaking (:heart:) love of screenplay writing (:heart:) desire to learn about urban, suburban, and rural america (:heart:) need for self-discipline (:heart:) individualism and family love (:heart:) appreciation of art and entrepreneurship (:heart:) compassionate capitalism (:heart:) strengths of america and india (:heart:) appreciation of hindu dharma (:heart:) curiosity about church communities (:heart:) mantra of vasudhaiva kutumbakam (:heart:) love of coding and team building (:heart:) hard work and house parties (:heart:) hitchhiking and travel (:heart:) and more (:heart:).
+Think :heart: self-discipline :heart: art :heart: entrepreneurship :heart: compassionate capitalism :heart: america and india :heart: hindu dharma and christianity :heart: vasudhaiva kutumbakam :heart: coding and open source :heart: hard work and house parties :heart: hitchhiking and travel :heart: urban, suburban, and rural america :heart: and more :heart: 
 
 In our show we will —
 
