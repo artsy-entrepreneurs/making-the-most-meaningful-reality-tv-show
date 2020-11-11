@@ -6,7 +6,7 @@ WE MUST CHANGE THE VIBE.
 
 (( TODO square image ))
 
-We are TEAM (( COME UP WITH A COOL NAME LATER )). Our mission is to create the most meaningful Reality TV Show — think :heart: self-discipline :heart: art :heart: entrepreneurship :heart: compassionate capitalism :heart: america and india :heart: hindu dharma and christianity :heart: vasudhaiva kutumbakam :heart: coding and open source :heart: hard work and house parties :heart: hitchhiking and travel :heart: urban, suburban, and rural america :heart: and more :heart: 
+We are TEAM (( COME UP WITH A COOL NAME LATER )). Our mission is to create the most meaningful Reality TV Show — think :heart: self-discipline :heart: art and entrepreneurship :heart: compassionate capitalism :heart: america and india :heart: hindu dharma and christianity :heart: vasudhaiva kutumbakam :heart: coding and open source :heart: hard work and house parties :heart: hitchhiking and travel :heart: urban, suburban, and rural america :heart: and more :heart: 
 
 _Young millennials and gen-z folks must rise to today's challenges._ 
 
