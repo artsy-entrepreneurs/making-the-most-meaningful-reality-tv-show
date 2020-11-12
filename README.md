@@ -1,22 +1,26 @@
 <p align="center">
-  <img alt="making the most meaningful reality tv show" src="https://raw.githubusercontent.com/making-most-meaningful-reality-tv-show/making-the-most-meaningful-reality-tv-show/main/visual-assets/photos-001-to-300/002%20tv%20sets%20with%20streaming%20service%20logos%20and%20our%20mission%20text.jpg">
+  <img alt="making the most meaningful reality tv show" src="https://raw.githubusercontent.com/making-most-meaningful-reality-tv-show/making-the-most-meaningful-reality-tv-show/main/visual-assets/photos-001-to-300/003%20tv%20sets%20with%20streaming%20service%20logos%20and%20our%20mission%20text%20blue.jpg">
 </p>
 
 # Making The Most Meaningful Reality TV Show
 
-🦇 global pandemic 🦇 unhealthy globalism 🦇 fake news 🦇 racial riots 🦇 religious riots 🦇 urban rural divide 🦇 job loss 🦇 life loss 🦇 cancel culture 🦇 shaming and silencing culture 🦇 addictive tech 🦇 addictive porn 🦇 lockdowns 🦇 loneliness 🦇 short attention span 🦇 depression 🦇 and more 🦇
+🦇 global pandemic 🦇 unhealthy globalism 🦇 fake news 🦇 racial riots 🦇 religious riots 🦇 urban rural divide 🦇 loss of job 🦇 loss of life 🦇 cancel culture 🦇 shaming and silencing culture 🦇 addictive tech 🦇 addictive porn 🦇 lockdowns 🦇 loneliness 🦇 short attention span 🦇 depression 🦇 and more 🦇
 
-^ In part, this is how the decade 2020 started for me and my friends.
+^ This is how decade 2020 started off, for me and my friends, and for many other people around our planet.
 
-^^ And for many other people around our planet.
+We must change the vibe.
 
-WE MUST CHANGE THE VIBE 🎭 🎸 🎷 🎻 🎶 I for sure need to change mine. And so I am starting out on this journey of two thousand two hundred and twenty steps — and the mission of this journey is to create the most meaningful Reality TV Show, inspired by the mantra of vasudhaiva kutumbakam, entrepreneurship, and compassionate capitalism 🇮🇳 🇺🇸 ❤️
+I for sure need to change my vibe, for which there is a secret personal reason as well, and so, I am setting out on this journey, a journey of _atleast_ two thousand two hundred and twenty steps, and a simple idea to help with directions — Mission of this journey is to create the most meaningful reality tv show, inspired by the mantra of vasudhaiva kutumbakam, artsy entrepreneurship, and compassionate capitalism 🇮🇳 🇺🇸 ❤️
 
-## Sorry, I Am Really Bad At ...
+Allow me to start with an open letter, addressed to yet unknown future applicants, of the most meaningful reality tv show.
 
-Hi,
+## Open Letter To Applicants
 
-My name is Sumeet Olivier, it used to be Sumeet Pareek, but as a husband I took my wife's lastname when we got married, and (( TODO what is the connection of that to making the most meaningful reality TV show )) (( TODO blog and/or video link here ))
+Dear applicant,
+
+Hello. Namaste. Trust all is well.
+
+My name is Sumeet Olivier, it used to be Sumeet Pareek, but I recently got married, and as a husband I adopted my wife's lastname as my own. (( TODO what is the connection of that to making the most meaningful reality TV show )) (( TODO blog and/or video link here ))
 
 I am writing this letter to you, despite being terrible at writting letters, because - (( TODO more context here ))
 
