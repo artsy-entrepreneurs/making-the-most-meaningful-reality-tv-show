@@ -10,32 +10,41 @@ In part, this is how the decade 2020 started for me and my friends.
 
 And for many other people around our planet.
 
-WE MUST CHANGE THE VIBE 🇮🇳 🇺🇸 :heart:
+WE MUST CHANGE THE VIBE 🎸🎷🎻🎭🎶
 
-## I Am Terrible At Writing Letters
+And so I am starting out on this journey of two thousand two hundred and twenty steps. The mission of this journey is to create the most meaningful Reality TV Show, inspired by the mantra of vasudhaiva kutumbakam, entrepreneurship, and compassionate capitalism 🇮🇳 🇺🇸 ❤️
+
+## Sorry, But I Am Really Bad At ...
 
 Hi,
 
-My name is Sumeet Olivier, it used to be Sumeet Pareek, but as a husband I took my wife's lastname and it was quite a thought process - TODO LINK.
+My name is Sumeet Olivier, it used to be Sumeet Pareek, but as a husband I took my wife's lastname and it was quite a thought process - (( TODO blog or video link here ))
 
-I am writing this letter to you, despite being terrible at writting letters, because - TODO MORE CONTEXT HERE.
+I am writing this letter to you, despite being terrible at writting letters, because - (( TODO more context here )) I suffer from severe ADHD, and for a very very long time now, I have jumped around from working on one idea to the other - (( TODO link of all things stated not finished ))
 
-I suffer from severe ADHD, and for a very very long time now, I have jumped around from working on one idea to the other - TODO.
-
-Maybe it is that I recently got married and feel good about responsibilites (wut!!), or maybe I am adulting again, or maybe I am going through a midlife crisis, or maybe it is just how insane the year 2020 has been — but for some reason there is a growing feeling, a realization of sorts that — _Us millennials and generation-z folks must now rise to today's challenges, just like the great generations before us had to — But differently._
-
-Let us team up and create this thing. Solve a problem. Solve it quick. And change the vibe for rest of the decade 2020.
+Maybe it is that I recently got married and feel good about responsibilites (wut!!), or maybe I am adulting all over again, or maybe I am going through a midlife crisis, or maybe it is just how insane the year 2020 has been, but for some reason there is this growing feeling — _Us millennials and generation-z folks must now rise to today's challenges — Just like the great generations before us had to — But differently._
 
 We are TEAM (( COME UP WITH A COOL NAME LATER )). Our mission is to create the most meaningful Reality TV Show — think :heart: vasudhaiva kutumbakam :heart: self-discipline :heart: art and entrepreneurship :heart: compassionate capitalism :heart: coding and open source :heart: america and india :heart: ideas of hindu dharma :heart: church and mosque communities :heart: hard work and house parties :heart: hitchhiking and travel :heart: urban, suburban, and rural america :heart: and more :heart:
 
-# Learn More & Consider Applying
+Let us team up and create this thing. Solve a problem. Solve it quick. And change the vibe for rest of the decade 2020.
 
-todo
+## Solve A Problem
+
+(( todo add meme here ))
+
+## Solve It Quick
+
+(( todo add meme here ))
+
+## Change The Vibe
+
+(( todo add meme here ))
+
+# Learn More & Consider Applying
 
 In our show we will —
 
 - _build a small team; of young millennials and gen-z folks_
-- _build a small business; that helps an individual appreciate their large and diverse family_
+- _build a small business; that helps everyone appreciate their large, diverse, and imperfect family_
 
-(( TODO we do not know how we will do that either ... but time has come for ))
-
+(( TODO add list of episodes and the apply button here ))
