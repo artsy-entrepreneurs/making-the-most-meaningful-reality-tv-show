@@ -7,131 +7,146 @@ video title: harvard india pakistan kashmir satyagrah
 purpose: audience 10 minute dekhne ke baad clearly answer kar paaye, kuch shuruwati sawal
 
 audience questions:
-- film entrepreneur Sumeet ka BACKGROUND kya hai?
-- hum as a team KAUN SI 3 CHEEZEIN saath mein banayeinge?
-- humare TEAM MEMBERS kaun honge? humare TEAM ROLES kya honge?
-- hum kahan RAHEINGE, kahan MILEINGE, aur kahan KAAM KAREINGE?
-- aapko kya BENEFIT hoga agar aap APPLY karoge sabse meaningful mehnati reality tv show mein hissa lene ke liye?
-- humara LARGER PURPOSE kya hai?
-- hum kis tarah hi INNOVATIVE cheezein kareinge? humare PRODUCT AUR PROCESS DONO mein?
+  - film entrepreneur Sumeet ka BACKGROUND kya hai?
+  - hum as a team KAUN SI 3 CHEEZEIN saath mein banayeinge?
+  - aapko kya BENEFIT hoga agar aap APPLY karoge sabse meaningful mehnati reality tv show mein hissa lene ke liye?
+  - humare TEAM MEMBERS kaun honge? 
+  - humare TEAM ROLES kya honge?
+  - hum kahan RAHEINGE, kahan MILEINGE, aur kahan KAAM KAREINGE?
+  - humara LARGER PURPOSE kya hai?
+  - hum kis tarah hi INNOVATIVE cheezein kareinge? humare PRODUCT AUR PROCESS DONO mein?
 
 visuals and talking points:
-- visual: meaningful reality tv show hindi logos
+  - visual: hindi channel logo of meaningful reality tv show
+    # status: ROUGH SLIDE ADDED
+    talking pionts: 
+    - swagat hai .. episode 0 ..
+    - episode 2, 4, 6 .. sudhar
+
+  - visual: wedding couple photo, github
   # status: ROUGH SLIDE ADDED
-  talking pionts: 
-  - welcome to episode 0 of 2020
-  - making the most meaningful reality tv show
+    talking pionts: 
+      - mera naam, shaadi ke baad
+      - weird nahi, kai kahani, dharm sangant soch
+
+  - visual: name change blog
+    status: TODO
+    talking pionts: 
+      - saal ki shuruat, promise, video nahi, koshish
+
+  - visual: episode 0 purpose and questions screenshot
+    status: TODO
+    talking pionts: 
+      - straight read them out
+
+  - visual: name change blog
+
+  - visual: distribution logos in 3 columns
+  # status: ROUGH SLIDE ADDED
+    talking pionts: 
+      - iss project, teen cheez
+      - pehli log youtube, jaisa aap abhi
+      - dusri cheez app store, jaise whatsapp truecaller bookmyshow
+      - pandemic book nahi, wahi idea
+      - teesri cheez, big boss, kbc, splitsvilla
+
+  - visual: main modi ji ka bhakt hun, elon musk ka, aamir khan sir ka, aur bhi kai
+  # status: ROUGH SLIDE ADDED
+    talking pionts: 
+      - item
+      - item
+      - item
+      - item
+
+  - visual: list of films jo main likh raha hun
+  # status: ROUGH SLIDE ADDED
+    talking pionts: 
+      - item
+      - item
+      - item
+      - item
+
+  - visual: team roles abhi ke aur future ke
+  # status: ROUGH SLIDE ADDED
+    talking pionts: 
+      - item
+      - item
+      - item
+      - item
+
+  - visual: our artsy product creation in 3 columns
+    talking pionts: 
+      - item
+      - item
+      - item
+      - item
+
+  - visual: rural and urban recent high school or college graduates
+  # status: ROUGH SLIDE ADDED
+    talking pionts: 
+      - item
+      - item
+      - item
+      - item
+    
+  - visual: benefit of apply money chills thrills and dollar bills
+  # status: PHOTOS DOWNLOADED
+    talking pionts: 
+      - item
+      - item
+      - item
+      - item
+
+  - visual: benefit alternate money and entrepreneurial lessons
+  # status: PHOTOS DOWNLOADED
+    talking pionts: 
+      - item
+      - item
+      - item
+      - item
+
+  - visual: item
+    talking pionts: 
+      - item
+      - item
+      - item
+      - item
+
+  - visual: item
+    talking pionts: 
+      - item
+      - item
+      - item
+      - item
+
+  - visual: item
+    talking pionts: 
+      - item
+      - item
+      - item
+      - item
+
+  - visual: item
+    talking pionts: 
+      - item
+      - item
+      - item
+      - item
+
+  - visual: item
+    talking pionts: 
+      - item
+      - item
+      - item
+      - item
+
+  - visual: item
+    talking pionts: 
+      - item
+      - item
+      - item
+      - item
+
+lessons learned: 
+  - should save GIFs and photos outside of the repository 
   - 
-
-- visual: hindu christian wedding photos, full family photo, name change blog
-# status: ROUGH SLIDE ADDED
-  talking pionts: 
-  - mera naam, shaadi ke baad
-  - item
-  - item
-  - item
-
-- visual: distribution logos in 3 columns
-# status: ROUGH SLIDE ADDED
-  talking pionts: 
-  - iss project, teen cheez
-  - pehli log youtube, jaisa aap abhi
-  - dusri cheez app store, jaise whatsapp truecaller bookmyshow
-  - pandemic book nahi, wahi idea
-  - teesri cheez, big boss, kbc, splitsvilla
-
-- visual: main modi ji ka bhakt hun, elon musk ka, aamir khan sir ka, aur bhi kai
-# status: ROUGH SLIDE ADDED
-  talking pionts: 
-  - item
-  - item
-  - item
-  - item
-
-- visual: list of films jo main likh raha hun
-# status: ROUGH SLIDE ADDED
-  talking pionts: 
-  - item
-  - item
-  - item
-  - item
-
-- visual: team roles abhi ke aur future ke
-# status: ROUGH SLIDE ADDED
-  talking pionts: 
-  - item
-  - item
-  - item
-  - item
-
-- visual: our artsy product creation in 3 columns
-  talking pionts: 
-  - item
-  - item
-  - item
-  - item
-
-- visual: rural and urban recent high school or college graduates
-# status: ROUGH SLIDE ADDED
-  talking pionts: 
-  - item
-  - item
-  - item
-  - item
-  
-- visual: benefit of apply money chills thrills and dollar bills
-# status: PHOTOS DOWNLOADED
-  talking pionts: 
-  - item
-  - item
-  - item
-  - item
-
-- visual: benefit alternate money and entrepreneurial lessons
-# status: PHOTOS DOWNLOADED
-  talking pionts: 
-  - item
-  - item
-  - item
-  - item
-
-- visual: item
-  talking pionts: 
-  - item
-  - item
-  - item
-  - item
-
-- visual: item
-  talking pionts: 
-  - item
-  - item
-  - item
-  - item
-
-- visual: item
-  talking pionts: 
-  - item
-  - item
-  - item
-  - item
-- visual: item
-  talking pionts: 
-  - item
-  - item
-  - item
-  - item
-
-- visual: item
-  talking pionts: 
-  - item
-  - item
-  - item
-  - item
-
-- visual: item
-  talking pionts: 
-  - item
-  - item
-  - item
-  - item
